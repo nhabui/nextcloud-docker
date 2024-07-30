@@ -1,0 +1,30 @@
+version: '3.8'
+
+services:
+  web:
+    build:
+      context: .
+      dockerfile: web/Dockerfile-php
+    container_name: nextcloud_web
+    ports:
+      - "80:80"
+    volumes:
+      - ./source:/var/www/html
+    depends_on:
+      - db
+
+  db:
+    image: mysql:8.4.1
+    container_name: nextcloud_mysql
+    environment:
+      MYSQL_ROOT_PASSWORD: example
+
+  adminer:
+    image: adminer:latest
+    container_name: nextcloud_adminer
+    ports:
+      - 8080:8080
+    depends_on:
+      - db
+    environment:
+      ADMINER_DEFAULT_SERVER: db

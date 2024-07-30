@@ -1,0 +1,21 @@
+@charset "UTF-8";.task-icon[data-v-b78bc47d],.material-design-icon[data-v-b0ac6ae2]{display:flex;align-self:center;justify-self:center;align-items:center;justify-content:center}.dashboard-widget[data-v-b0ac6ae2] .empty-content{text-align:center;padding-top:5vh}.dashboard-widget[data-v-b0ac6ae2] .empty-content.half-screen{padding-top:0;margin-bottom:1vh}.more[data-v-b0ac6ae2]{display:block;text-align:center;color:var(--color-text-maxcontrast);line-height:60px;cursor:pointer}.more[data-v-b0ac6ae2]:hover,.more[data-v-b0ac6ae2]:focus{background-color:var(--color-background-hover);border-radius:var(--border-radius-large);color:var(--color-main-text)}.item-list__entry[data-v-b0ac6ae2]{display:flex;align-items:flex-start;padding:8px}.item-list__entry .item-avatar[data-v-b0ac6ae2]{position:relative;margin-top:auto;margin-bottom:auto;background-color:var(--color-background-dark)!important}.item-list__entry .item__details[data-v-b0ac6ae2]{padding-left:8px;max-height:44px;flex-grow:1;overflow:hidden;display:flex;flex-direction:column}.item-list__entry .item__details h3[data-v-b0ac6ae2],.item-list__entry .item__details .message[data-v-b0ac6ae2]{white-space:nowrap;background-color:var(--color-background-dark)}.item-list__entry .item__details h3[data-v-b0ac6ae2]{font-size:100%;margin:0}.item-list__entry .item__details .message[data-v-b0ac6ae2]{width:80%;height:15px;margin-top:5px}/**
+ * @copyright Copyright (c) 2019 John Molakvoæ <skjnldsv@protonmail.com>
+ *
+ * @author John Molakvoæ <skjnldsv@protonmail.com>
+ *
+ * @license GNU AGPL version 3 or any later version
+ *
+ * This program is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU Affero General Public License as
+ * published by the Free Software Foundation, either version 3 of the
+ * License, or (at your option) any later version.
+ *
+ * This program is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU Affero General Public License for more details.
+ *
+ * You should have received a copy of the GNU Affero General Public License
+ * along with this program. If not, see <http://www.gnu.org/licenses/>.
+ *
+ */.material-design-icon[data-v-00e861ef]{display:flex;align-self:center;justify-self:center;align-items:center;justify-content:center}.item-list__entry[data-v-00e861ef]{display:flex;align-items:flex-start;position:relative;padding:8px}.item-list__entry[data-v-00e861ef]:hover,.item-list__entry[data-v-00e861ef]:focus{background-color:var(--color-background-hover);border-radius:var(--border-radius-large)}.item-list__entry .item-avatar[data-v-00e861ef]{position:relative;margin-top:auto;margin-bottom:auto}.item-list__entry .item__details[data-v-00e861ef]{padding-left:8px;max-height:44px;flex-grow:1;overflow:hidden;display:flex;flex-direction:column}.item-list__entry .item__details h3[data-v-00e861ef],.item-list__entry .item__details .message[data-v-00e861ef]{white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.item-list__entry .item__details .message span[data-v-00e861ef]{width:10px;display:inline-block;margin-bottom:-3px}.item-list__entry .item__details h3[data-v-00e861ef]{font-size:100%;margin:0}.item-list__entry .item__details .message[data-v-00e861ef]{width:100%;color:var(--color-text-maxcontrast)}.item-list__entry .item-icon[data-v-00e861ef]{position:relative;width:14px;height:14px;margin:27px -3px 0 -7px}.item-list__entry button.primary[data-v-00e861ef]{padding:21px;margin:0}#tasks_panel .calendar-dot{height:1rem;width:1rem;margin-top:.2rem;border-radius:50%;min-width:1rem;min-height:1rem}.center-button{display:flex;justify-content:center;margin-top:10px}

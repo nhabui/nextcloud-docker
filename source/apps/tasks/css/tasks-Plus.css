@@ -1,0 +1,42 @@
+@charset "UTF-8";/**
+ * @copyright Copyright (c) 2019 John Molakvoæ <skjnldsv@protonmail.com>
+ *
+ * @author John Molakvoæ <skjnldsv@protonmail.com>
+ *
+ * @license GNU AGPL version 3 or any later version
+ *
+ * This program is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU Affero General Public License as
+ * published by the Free Software Foundation, either version 3 of the
+ * License, or (at your option) any later version.
+ *
+ * This program is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU Affero General Public License for more details.
+ *
+ * You should have received a copy of the GNU Affero General Public License
+ * along with this program. If not, see <http://www.gnu.org/licenses/>.
+ *
+ */.material-design-icon[data-v-68a40e32]{display:flex;align-self:center;justify-self:center;align-items:center;justify-content:center}/**
+ * @copyright Copyright (c) 2019 John Molakvoæ <skjnldsv@protonmail.com>
+ *
+ * @author John Molakvoæ <skjnldsv@protonmail.com>
+ * @author Marco Ambrosini <marcoambrosini@icloud.com>
+ *
+ * @license GNU AGPL version 3 or any later version
+ *
+ * This program is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU Affero General Public License as
+ * published by the Free Software Foundation, either version 3 of the
+ * License, or (at your option) any later version.
+ *
+ * This program is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU Affero General Public License for more details.
+ *
+ * You should have received a copy of the GNU Affero General Public License
+ * along with this program. If not, see <http://www.gnu.org/licenses/>.
+ *
+ */li.action.active[data-v-68a40e32]{background-color:var(--color-background-hover);border-radius:6px;padding:0}.action--disabled[data-v-68a40e32]{pointer-events:none;opacity:.5}.action--disabled[data-v-68a40e32]:hover,.action--disabled[data-v-68a40e32]:focus{cursor:default;opacity:.5}.action--disabled *[data-v-68a40e32]{opacity:1!important}.action-button[data-v-68a40e32]{display:flex;align-items:flex-start;width:100%;height:auto;margin:0;padding:0 14px 0 0;box-sizing:border-box;cursor:pointer;white-space:nowrap;color:var(--color-main-text);border:0;border-radius:0;background-color:transparent;box-shadow:none;font-weight:400;font-size:var(--default-font-size);line-height:44px}.action-button>span[data-v-68a40e32]{cursor:pointer;white-space:nowrap}.action-button__icon[data-v-68a40e32]{width:44px;height:44px;opacity:1;background-position:14px center;background-size:16px;background-repeat:no-repeat}.action-button[data-v-68a40e32] .material-design-icon{width:44px;height:44px;opacity:1}.action-button[data-v-68a40e32] .material-design-icon .material-design-icon__svg{vertical-align:middle}.action-button__longtext-wrapper[data-v-68a40e32],.action-button__longtext[data-v-68a40e32]{max-width:220px;line-height:1.6em;padding:10.8px 0;cursor:pointer;text-align:left;overflow:hidden;text-overflow:ellipsis}.action-button__longtext[data-v-68a40e32]{cursor:pointer;white-space:pre-wrap!important}.action-button__name[data-v-68a40e32]{font-weight:700;text-overflow:ellipsis;overflow:hidden;white-space:nowrap;max-width:100%;display:inline-block}.action-button__menu-icon[data-v-68a40e32],.action-button__pressed-icon[data-v-68a40e32]{margin-left:auto;margin-right:-14px}
